@@ -1,19 +1,19 @@
 # Hi there, I'm Anas! 👋
 
-[![Years Badge](https://badges.pufler.dev/years/Mohammad4844)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Mohammad4844)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/Mohammad4844)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/anashanishaaban)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/anashanishaaban)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/anashanishaaban)](https://badges.pufler.dev)
 
 
 # About Me
-- I am currently an undergraduate student majoring in ***Computer Science*** & ***Mathametics***
+- I am currently an undergraduate student majoring in ***Computer Science*** & minoring in **Economics** and **Data Science**
 - My technical experience includes:
-    - ***Software Engineering Intern*** @ Truss
-    - ***Software Developer Intern*** @ University of Michigan
-    - ***Deep Learning Research Assistant*** @ Eastern Michigan University
-    - ***IT Intern*** @ Compass Group
+    - ***Software Engineering Intern*** @ ARUP Laboratories
+    - ***Undergradutate Research Assistant*** @ Michigan State University Office of Medical Education Research and Development
+    - ***Undergraduate Research Assistant*** @ Michigan State University Civil and Environmental Engineering Department
+    - ***Backend Developer*** @ Quarry
 - My main areas of expertise are:
-    - Building web applications using ***Ruby on Rails***
+    - Building web applications using ***Django + RESTful API***
     - ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***
     - ***AWS*** for cloud services for system design & practical ML
  
@@ -22,23 +22,24 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Software Engineering
@@ -51,7 +52,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Machine Learning & Data Science
 
