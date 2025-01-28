@@ -1,10 +1,5 @@
 # Hi there, I'm Anas! 👋
 
-[![Years Badge](https://badges.pufler.dev/years/anashanishaaban)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/anashanishaaban)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/anashanishaaban)](https://badges.pufler.dev)
-
-
 # About Me
 - I am currently an undergraduate student majoring in ***Computer Science*** & minoring in **Economics** and **Data Science**
 - My technical experience includes:
@@ -69,3 +64,6 @@
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Projects
+
