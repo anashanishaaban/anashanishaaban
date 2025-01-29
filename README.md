@@ -69,4 +69,4 @@
 
 ## ShopGPT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=shopping-assistant&theme=dark)][(https://github.com/anashanishaaban/shopping-assistant)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=shopping-assistant&theme=dark)](https://github.com/anashanishaaban/shopping-assistant)
