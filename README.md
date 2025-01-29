@@ -77,7 +77,7 @@
 
 ## Jack in the Box
 
-The Canadian Experience project is a C++ application designed to simulate and animate various machine systems and characters. It features an animation framework, actor and timeline management, and machine system integrations. The project is built using CMake for cross-platform compatibility and includes a robust testing suite powered by Google Test.
+The Jack in the Box project is a C++ application designed to simulate and animate various machine systems and characters. It features an animation framework, actor and timeline management, and machine system integrations. The project is built using CMake for cross-platform compatibility and includes a robust testing suite powered by Google Test.
 
 Built for educational and research purposes, this project enhances animation and machine simulation using wxWidgets for UI, Google Test for validation, and Doxygen for documentation.
 
