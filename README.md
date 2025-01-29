@@ -85,4 +85,4 @@ The Jack in the Box project is a C++ application designed to simulate and animat
 
 Built for educational and research purposes, this project enhances animation and machine simulation using wxWidgets for UI, Google Test for validation, and Doxygen for documentation.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=Canadian-Experience&theme=dark)](https://github.com/anashanishaaban/Canadian-Experience)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=JackInTheBox&theme=dark)](https://github.com/anashanishaaban/JackInTheBox)
