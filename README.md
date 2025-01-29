@@ -73,7 +73,7 @@
 
 The **Shopping Assistant** project is a web-based application designed to enhance online shopping experiences through web scraping, chatbot assistance, and wishlist management. Built using Django, Celery, Redis, and TailwindCSS, this project provides real-time price tracking, automated notifications, and a chatbot interface.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=shopping-assistant&theme=dark)](https://github.com/MSU-AI/shopping-assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSU-AI&repo=shopping-assistant&theme=dark)](https://github.com/MSU-AI/shopping-assistant)
 
 ## Genesis
 
