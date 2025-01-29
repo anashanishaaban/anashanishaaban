@@ -74,3 +74,11 @@
 ## Genesis
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=GenesisAI-Datathon&theme=dark)](https://github.com/anashanishaaban/GenesisAI-Datathon)
+
+## Jack in the Box
+
+The Canadian Experience project is a C++ application designed to simulate and animate various machine systems and characters. It features an animation framework, actor and timeline management, and machine system integrations. The project is built using CMake for cross-platform compatibility and includes a robust testing suite powered by Google Test.
+
+Built for educational and research purposes, this project enhances animation and machine simulation using wxWidgets for UI, Google Test for validation, and Doxygen for documentation.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=Canadian-Experience&theme=dark)](https://github.com/anashanishaaban/Canadian-Experience)
