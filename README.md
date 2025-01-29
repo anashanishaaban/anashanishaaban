@@ -77,7 +77,7 @@ The **Shopping Assistant** project is a web-based application designed to enhanc
 
 ## Genesis
 
-The **Genesis** project is a full-stack web app developed during a Datathon, where it won $1,500 in the GenAI track. It leverages Generative AI to create personalized travel itineraries, including flights, hotels, and transportation, tailored to users' preferences and budgets. With automation and AI-driven recommendations, Genesis simplifies trip planning, making travel seamless and hassle-free.
+The **Genesis** project is a full-stack web app developed during a Datathon, where I won $1,500 with 1st place in the GenAI track. It leverages Generative AI to create personalized travel itineraries, including flights, hotels, and transportation, tailored to users' preferences and budgets. With automation and AI-driven recommendations, Genesis simplifies trip planning, making travel seamless and hassle-free.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=GenesisAI-Datathon&theme=dark)](https://github.com/anashanishaaban/GenesisAI-Datathon)
 
