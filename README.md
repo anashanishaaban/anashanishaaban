@@ -69,19 +69,27 @@
 
 ## ShopGPT
 
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+ [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+ [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
-
-The **Shopping Assistant** project is a web-based application designed to enhance online shopping experiences through web scraping, chatbot assistance, and wishlist management. Built using Django, Celery, Redis, and TailwindCSS, this project provides real-time price tracking, automated notifications, and a chatbot interface.
+The **Shopping Assistant** project is a full-stack web-based application designed to enhance online shopping experiences through web scraping, chatbot assistance, and wishlist management. Built using Django, Celery, Redis, and TailwindCSS, this project provides real-time price tracking, automated notifications, and a chatbot interface.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSU-AI&repo=shopping-assistant&theme=dark)](https://github.com/MSU-AI/shopping-assistant)
 
 ## Genesis
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+ [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+ [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) 
 
 The **Genesis** project is a full-stack web app developed during a Datathon, where I won $1,500 with 1st place in the GenAI track. It leverages Generative AI to create personalized travel itineraries, including flights, hotels, and transportation, tailored to users' preferences and budgets. With automation and AI-driven recommendations, Genesis simplifies trip planning, making travel seamless and hassle-free.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=Genesis-Datathon&theme=dark)](https://github.com/anashanishaaban/Genesis-Datathon)
 
 ## Dynamic Machine System Factory
+
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
 The Jack in the Box project is a C++ application designed to simulate and animate various machine systems and characters. It features an animation framework, actor and timeline management, and machine system integrations. The project is built using CMake for cross-platform compatibility and includes a robust testing suite powered by Google Test.
 
