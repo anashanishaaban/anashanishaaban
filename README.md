@@ -96,3 +96,11 @@ The Jack in the Box project is a C++ application designed to simulate and animat
 Built for educational and research purposes, this project enhances animation and machine simulation using wxWidgets for UI, Google Test for validation, and Doxygen for documentation.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=JackInTheBox&theme=dark)](https://github.com/anashanishaaban/JackInTheBox)
+
+## Quarry
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+ [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+ [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+
+Quarry is an AI-powered content creation platform that helps podcasters and long-form video creators efficiently generate short-form content for social media. Using advanced machine learning models trained on thousands of high-performing short-form videos, Quarry automatically identifies the most engaging moments from long videos or podcasts, generates captions, and formats the content for optimal online reach.
