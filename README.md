@@ -108,6 +108,13 @@ This web application is designed to make video editing easy and intuitive. It us
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSU-AI&repo=transcript-editor&theme=dark)](https://github.com/anashanishaaban/transcript-editor)
 
+## Campus Event Scheduler 
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+This is an android app developed in Java to allow student organizations on campus to gain more exposure for their events with RSVPing functionality, Google Maps API to find the location and other cool features.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=CampusScheduling&theme=dark)](https://github.com/anashanishaaban/CampusScheduling)
+
 ## Arup Laboratories Retrieval Augmented Generation (Company Repository)
 
 [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)  [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
