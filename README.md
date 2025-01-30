@@ -1,5 +1,7 @@
 # Hi there, I'm Anas! 👋
 
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/anashanishaaban)](https://badges.pufler.dev)
+
 # About Me
 - I am currently an undergraduate student majoring in ***Computer Science*** & minoring in **Economics** and **Data Science**
 - My technical experience includes:
@@ -97,10 +99,32 @@ Built for educational and research purposes, this project enhances animation and
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=JackInTheBox&theme=dark)](https://github.com/anashanishaaban/JackInTheBox)
 
-## Quarry
+## Transcript Editor
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#) 
+
+This web application is designed to make video editing easy and intuitive. It uses a combination of front-end and back-end technologies to provide users with a powerful tool that allows them to edit their videos quickly and efficiently using the generated transcript from the video you can delete words from the transcript to remove that section of the video.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSU-AI&repo=transcript-editor&theme=dark)](https://github.com/anashanishaaban/transcript-editor)
+
+## Arup Laboratories Retrieval Augmented Generation (Company Repository)
+
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)  [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+The Retrieval-Augmented Generation (RAG) System developed at ARUP Laboratories is an advanced AI-powered solution designed to enhance genetic variant information retrieval and report generation for clinical variant scientists. By integrating large-scale document processing, fine-tuned embedding models, and an interactive chatbot UI, the system streamlines access to critical genetic insights.
+
+## Quarry - quarry.video (Private)
 
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 Quarry is an AI-powered content creation platform that helps podcasters and long-form video creators efficiently generate short-form content for social media. Using advanced machine learning models trained on thousands of high-performing short-form videos, Quarry automatically identifies the most engaging moments from long videos or podcasts, generates captions, and formats the content for optimal online reach.
+
+## Undergraduate Research Project Civil Enginering Department - Geo-ML (Private)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) 
+
+The Geo-ML Project, developed at the Civil Engineering Department, Michigan State University, is an AI-powered web-based toolkit designed to streamline geotechnical data analysis using machine learning and automation. This project aims to assist engineers and researchers by simplifying the extraction, processing, and visualization of geotechnical data.
+
