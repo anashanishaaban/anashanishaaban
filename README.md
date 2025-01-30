@@ -6,8 +6,8 @@
 - I am currently an undergraduate student majoring in ***Computer Science*** & minoring in **Economics** and **Data Science**
 - My technical experience includes:
     - ***Software Engineering Intern*** @ ARUP Laboratories
-    - ***Undergradutate Research Assistant*** @ Michigan State University Office of Medical Education Research and Development
     - ***Undergraduate Research Assistant*** @ Michigan State University Civil and Environmental Engineering Department
+    - ***Undergradutate Research Assistant*** @ Michigan State University Office of Medical Education Research and Development
     - ***Backend Developer*** @ Quarry
 - My main areas of expertise are:
     - Building web applications using ***Django + RESTful API***
