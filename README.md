@@ -10,7 +10,7 @@
     - ***Undergradutate Research Assistant*** @ Michigan State University Office of Medical Education Research and Development
     - ***Backend Developer*** @ Quarry
 - My main areas of expertise are:
-    - Building web applications using ***Django + RESTful API***
+    - Building full-stack web applications using ***Django + RESTful API + SQL Databases***
     - ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***
     - ***AWS*** for cloud services for system design & practical ML
  
