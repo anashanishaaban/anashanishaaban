@@ -69,6 +69,15 @@
 
 # Projects
 
+**GreenSync** is a decentralized ai platform that distributes computation across user devices, reducing reliance on energy-hungry cloud servers. users earn green coins based on their computational contributions, incentivizing sustainable ai processing. by leveraging fastapi, ray, and ollama, greensync enables efficient, eco-friendly ai workloads.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anashanishaaban&repo=GreenSync&theme=dark)](https://github.com/anashanishaaban/GreenSync)
+
 ## ShopGPT
 
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -135,4 +144,6 @@ Quarry is an AI-powered content creation platform that helps podcasters and long
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) 
 
 The Geo-ML Project, developed at the Civil Engineering Department, Michigan State University, is an AI-powered web-based toolkit designed to streamline geotechnical data analysis using machine learning and automation. This project aims to assist engineers and researchers by simplifying the extraction, processing, and visualization of geotechnical data.
+
+
 
