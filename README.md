@@ -73,7 +73,7 @@
 
 **GreenSync** is a decentralized ai platform that distributes computation across user devices, reducing reliance on energy-hungry cloud servers. users earn green coins based on their computational contributions, incentivizing sustainable ai processing. by leveraging fastapi, ray, and ollama, greensync enables efficient, eco-friendly ai workloads.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
